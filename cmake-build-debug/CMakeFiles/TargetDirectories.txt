@@ -1,0 +1,4 @@
+C:/Users/i7/CLionProjects/Self_Study/cmake-build-debug/CMakeFiles/Self_Study.dir
+C:/Users/i7/CLionProjects/Self_Study/cmake-build-debug/CMakeFiles/Iterators.dir
+C:/Users/i7/CLionProjects/Self_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/i7/CLionProjects/Self_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
